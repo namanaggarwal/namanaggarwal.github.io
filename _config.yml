@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Naman Aggarwal Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Naman Aggarwal"
 description              : &description "personal description"
 url                      : https://namanaggarwal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Naman Aggarwal"
   avatar           : "naman.png"
-  bio              : "Fourth Year (B.Tech) Student, Aerospace Engineering, IIT Bombay"
+  bio              : "Systems and Control Engineering, IIT Bombay" #Fourth Year (B.Tech) Student, ...
   location         : "Mumbai, India"
   employer         :
   pubmed           : 
