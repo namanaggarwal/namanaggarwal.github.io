@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-**Under Construction**
+[Long CV (3 page)](https://namanaggarwal.github.io/files/resume.pdf)
