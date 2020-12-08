@@ -1,11 +1,16 @@
 ---
+layout: archive
+title: "Technical Projects"
 permalink: /projects/
-title: "Projects"
-excerpt: "Projects"
 author_profile: true
-redirect_from: 
-  - /projects.html
-  -/projects
 ---
 
-**Under Construction**
+1. **Model-based Deep RL controller for Super Mario Bros** (Aug 2019 - Nov 2019) <br>
+*Advisor: Prof. Shivaram Kalyanakrishnan, CS, IITB* <br>
+Test text. [[Report]](https://namanaggarwal.github.io/files/CS747.pdf)
+
+
+
+
+
+
