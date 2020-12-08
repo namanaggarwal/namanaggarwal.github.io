@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Long CV (3 page)](https://namanaggarwal.github.io/files/resume.pdf)
+[Long CV (3 pages)](https://namanaggarwal.github.io/files/resume.pdf)
