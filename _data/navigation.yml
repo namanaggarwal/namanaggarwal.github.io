@@ -3,11 +3,11 @@ main:
   #- title: "Publications"
     #url: /publications/
             
-  #- title: "Research"
-    #url: /research/
+  - title: "Research"
+    url: /research/
 
-  #- title: "Projects"
-    #url: /projects/
+  - title: "Projects"
+    url: /projects/
 
   #- title: "Blog Posts"
     #url: /year-archive/
@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Relevant Coursework"
+  - title: "Coursework"
     url: /coursework/
