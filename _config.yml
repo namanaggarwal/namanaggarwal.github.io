@@ -265,8 +265,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-fromPage Not Found
-Sorry, but the page you were trying to view does not existPage Not Found
-Sorry, but the page you were trying to view does not exist
+#Sorry, but the page you were trying to view does not existPage Not Found
+#Sorry, but the page you were trying to view does not exist
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
