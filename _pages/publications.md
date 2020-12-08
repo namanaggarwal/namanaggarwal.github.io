@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Naman Aggarwal**, Ankur A. Kulkarni, Jayakrishnan Nair, ”A Scalarized VCG Mechanism for Supply-side Markets”, *to be submitted, IEEE Transactions on Automatic Control* [[Draft]](https://namanaggarwal.github.io/files/journal_draft.pdf)

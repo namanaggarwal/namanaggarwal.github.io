@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a final year student at IIT Bombay in the Interdisciplinary Dual Degree program (B.Tech in Aerospace Engineering + M.Tech in Systems and Control Engineering). My interests broadly lie in **Stochastic and Decentralized Control, Learning Theory, Optimization, Game Theory** and **Reinforcement Learning**. I am interested in the theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
+Hello! Welcome to my corner of the internet.
 
-My bachelor's thesis is with [Prof. Ankur Kulkarni](http://www.sc.iitb.ac.in/~ankur/) and [Prof. Jayakrishnan Nair](https://www.ee.iitb.ac.in/~jayakrishnan.nair/), where we are exploring problems broadly in Stochastic and Networked control, Game Theory and Optimization. I spent the summer of 2019 working under the guidance of [Dr. Aditya Paranjape](https://in.linkedin.com/in/ap2da) at Tata Research Development and Design Centre (TRDDC Pune) on applications of reinforcement learning in industry, particularly the inventory control problem.
+I am a final year student in the Systems and Control Engineering Department at IIT Bombay. My research interests broadly lie in **Learning Theory, Optimization, Game Theory** and **Stochastic and Decentralized Control**. My past research experiences have prepared me well to carry out interdisciplinary research in these domains.
 
-To know more about my projects, you can head over to the [Projects](https://namanaggarwal.github.io/projects/) page and my CV can be found [here](https://namanaggarwal.github.io/cv/). You can contact me at [naman_agg[at]iitb.ac.in](mailto:naman_agg@iitb.ac.in).
+I am currently studying the role of information and privacy in stochastic dynamic decision problems as a part of my Master's thesis with [Prof. Ankur Kulkarni](http://www.sc.iitb.ac.in/~ankur/) (SC IITB). Previously, I have worked on mechanism design in the context of supply side markets with Prof. Kulkarni and [Prof. Jayakrishnan Nair](https://www.ee.iitb.ac.in/~jayakrishnan.nair/) (EE IITB) during my Bachelor's thesis. I have also spent a summer working on reinforcement learning based solutions for inventory control with [Dr. Aditya Paranjape](https://scholar.google.co.in/citations?user=4d54VyUAAAAJ&hl=en) at [Tata Research Development and Design Centre Pune](https://en.wikipedia.org/wiki/Tata_Research_Development_and_Design_Centre). Find details [here](https://namanaggarwal.github.io/research).
+
+I am confident of my ability to adapt and work on varied themes given my background.

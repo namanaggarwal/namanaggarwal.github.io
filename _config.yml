@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Naman Aggarwal"
-  avatar           : "naman.png"
+  avatar           : "naman.jpeg"
   bio              : "Systems and Control Engineering, IIT Bombay" #Fourth Year (B.Tech) Student, ...
   location         : "Mumbai, India"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "namanaggarwal"
+  github           : #"namanaggarwal"
   google_plus      :
   keybase          :
   instagram        :

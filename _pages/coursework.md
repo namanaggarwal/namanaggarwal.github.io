@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Coursework"
+title: "Relevant Coursework"
 permalink: /coursework/
 author_profile: true
 ---
