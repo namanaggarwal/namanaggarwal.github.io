@@ -14,7 +14,7 @@ author_profile: true
 [[Report]](https://namanaggarwal.github.io/files/ZapQ.pdf)
 
 3. **Regret Minimization for Correlated Multi-armed Bandits** (Jan 2020 - June 2020) <br>
-*Advisor: Prof. Vivek Borkar, EE, IITB* <br>
+*Advisor: Prof. Jayakrishnan Nair, EE, IITB* <br>
 [[Report]](https://namanaggarwal.github.io/files/EE737.pdf)
 
 
